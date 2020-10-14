@@ -1,0 +1,1 @@
+weights of a model that was run for 10 epochs and 100 steps per epochs.
