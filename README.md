@@ -1,6 +1,6 @@
 
 <h1 style="text-align:center"> Brain Tumor 2D Image Registration </h1>
-
+<img style="display: block; margin: auto;" alt="photo"  width="400" src="./images/TumorRegestration.png">
 
 
 The goal of this project is to use a CNN based registration algorithm to align 2D brain images of patients with brain glioblastoma to a healthy template. We will use the freely available dataset [Brats]( http://braintumorsegmentation.org/) and [VoxeMorph](https://github.com/voxelmorph/voxelmorph), a state-of-the-art deep learning registration algorithm.
